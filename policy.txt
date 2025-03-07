@@ -1,33 +1,49 @@
-# Privacy Policy for EveOut
+**Privacy Policy for EveOut**
 
-**Effective Date:** 18th Jan 2025
+**Effective Date: 18th Jan 2025**
 
 EveOut ("we," "our," or "us") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and safeguard your data when you use the EveOut mobile app (the "App").
 
 ---
 
-## Permissions We Request and Their Purpose
+### **Permissions We Request and Their Purpose**
 
-### 1. Contact Information
-- **Permissions:** READ_CONTACTS, WRITE_CONTACTS
-- **Purpose:** Allows you to sync your contacts to invite friends, share details, and enhance social connectivity.
+#### **1. Contact Information**
+**Permissions:** READ_CONTACTS, WRITE_CONTACTS  
+**Purpose:** Allows you to sync your contacts to invite friends, share details, and enhance social connectivity.
 
-### 2. Location Information
-- **Permission:** ACCESS_FINE_LOCATION
-- **Purpose:** Provides location-based recommendations for nearby events, restaurants, and social activities.
+#### **2. Location Information**
+**Permissions:** ACCESS_FINE_LOCATION  
+**Purpose:** Provides location-based recommendations for nearby events, restaurants, and social activities.
 
-### 3. Camera Access
-- **Permission:** CAMERA
-- **Purpose:** Enables QR code scanning for waiter check-ins, allowing access to specific features like ordering and music voting.
+##### **Location Data for Security & Fraud Prevention**
+To protect the integrity of the EveOut platform and prevent fraudulent activities such as location spoofing, we collect and store users' last known location when they interact with our services.
 
-### 4. Photos and Media
-- **Permission:** Access to Photo Library
-- **Purpose:** Allows users to upload photos for profiles, events, or sharing moments within the App.
+**Why We Collect This Data:**
+- **Security & Fraud Prevention** – To detect suspicious activity, such as rapid movement between locations, which may indicate unauthorized access.
+- **Service Protection** – To ensure fair usage of EveOut’s location-based features.
+
+**How We Use This Data:**
+- Temporarily store your last known location to detect anomalies.
+- Restrict or temporarily block access to features if unrealistic location changes are detected.
+- This data is not shared with third parties and is only used internally for fraud detection and security.
+
+**Your Rights & Choices:**
+- You can request deletion of your location data by contacting eveoutapp@gmail.com.
+- We do not track your location in the background—only when you actively interact with location-based features.
+- We comply with applicable data protection laws and store your data securely with encryption.
+
+#### **3. Camera Access**
+**Permissions:** CAMERA  
+**Purpose:** Enables QR code scanning for waiter check-ins, allowing access to features like ordering and music voting.
+
+#### **4. Photos and Media**
+**Permissions:** Access to Photo Library  
+**Purpose:** Allows users to upload photos for profiles, events, or sharing moments within the App.
 
 ---
 
-## How We Use Your Information
-
+### **How We Use Your Information**
 We use the collected information to:
 - Provide and maintain App functionality.
 - Personalize your experience based on location and preferences.
@@ -38,36 +54,32 @@ We do not use your data for any unauthorized purposes.
 
 ---
 
-## Your Rights and Controls
-
+### **Your Rights and Controls**
 You can manage permissions through your device settings:
 - Revoke access to contacts, location, camera, or photos.
 - Opt-out of data collection by uninstalling the App.
 
 ---
 
-## Data Security
-
+### **Data Security**
 We take reasonable measures to protect your personal information. However, no system is completely secure. Please report any security issues to us.
 
 ---
 
-## Updates to This Privacy Policy
-
-We may update this policy periodically. Changes will be reflected in the App and the Google Play Store listing.
+### **Updates to This Privacy Policy**
+We may update this policy periodically. Changes will be reflected in the App and the App Store listing.
 
 ---
 
-## Contact Us
-
+### **Contact Us**
 If you have questions or concerns about this Privacy Policy:
-- **Email:** eveoutapp@gmail.com
+**Email:** eveoutapp@gmail.com
 
 ---
 
-## Summary of Permissions
+### **Summary of Permissions**
+- **READ_CONTACTS / WRITE_CONTACTS:** For social connectivity.
+- **ACCESS_FINE_LOCATION:** For location-based recommendations.
+- **CAMERA:** For waiter QR code scanning.
+- **Photo Library Access:** For uploading photos in the App.
 
-1. **READ_CONTACTS / WRITE_CONTACTS**: For social connectivity.
-2. **ACCESS_FINE_LOCATION**: For location-based recommendations.
-3. **CAMERA**: For waiter QR code scanning.
-4. **Photo Library Access**: For uploading photos in the App.
